@@ -1,0 +1,17 @@
+//AUTH
+export const LOGINSUCCESS = 'LOGINSUCCESS';
+export const LOGOUT = 'LOGOUT';
+
+
+
+///employee
+export const FETCH_ALL_EMPLOYEE = 'FETCH_ALL_EMPLOYEE';
+export const INSERT_EMPLOYEE = 'INSERT_EMPLOYEE';
+export const UPDATE_EMPLOYEE = 'UPDATE_EMPLOYEE';
+export const DELETE_EMPLOYEE = 'DELETE_EMPLOYEE';
+
+
+//department
+
+export const FETCH_ALL_DEPARTMENT = 'FETCH_ALL_DEPARTMENT';
+ 

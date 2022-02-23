@@ -1,0 +1,124 @@
+FirstName
+MiddleName
+LastName
+DateOfBirth
+PlaceOfBirth
+Sex
+CivilStatus
+Citizenship
+TIN  -
+GSISID  -
+PagIbigID   -
+PhilHealth   -
+
+SSS   -
+Telephone
+Cellphone
+EmailAddress
+AgencyNumber 
+isActive  -
+EmploymentStatus
+CurrentItem  -
+Department
+Ext   -
+Height   -
+Weight  -
+BloodType  -
+RTelephone  -
+PTelephone  -
+RHouseNo  -
+RHouseStreet  -
+RSubDivision   -
+PHouseNo  -
+PHouseStreet  -
+PSubDivision   -
+RBarangay   -
+PBarangay   -
+RZip  -
+PZip  - 
+Prefix   -
+Suffix  -
+LoginComputation  -
+profilephoto
+created_at
+updated_at
+
+
+firstname
+middlename
+lastname
+dateofbirth
+placeofbirth
+sex
+civilstatus
+citizenship
+tin  -
+gsisid  -
+pagibigid  -
+philhealth  -
+sss  -
+telephone
+cellphone
+emailaddress
+agencynumber 
+isactive  -
+employmentstatus
+currentitem -
+department
+ext -
+height -
+weight -
+bloodtype -
+rtelephone -
+ptelephone *
+rhouseno -
+rhousestreet -
+rsubdivision -
+phouseno -
+phousestreet -
+psubdivision -
+rbarangay 
+pbarangay -
+rzip -
+pzip -
+prefix -
+suffix -
+logincomputation -
+profilephoto
+created_at
+updated_at
+
+
+
+
+
+
+
+
+
+
+ {/* <th>TIN</th>
+                                                <th>GIS-ID</th>
+
+                                                <th>PAG-IBIG ID</th>
+                                                <th>Philhealth</th>
+                                                <th>SSS</th> */}
+  {/* <th>Active Status</th> */}
+  {/* <th>Current Item</th> */}
+
+ {/* <th>EXT</th>
+                                                <th>Height</th>
+                                                <th>Weight</th>
+                                                <th>BloodType</th>
+                                                <th>RTelephone</th>
+                                                <th>RHouseNo.</th>
+                                                <th>RHouse Street</th>
+                                                <th>RSubDivision</th>
+                                                <th>RBrgy</th>
+
+                                                <th>PBrgy</th>
+                                                <th>RZip</th>
+                                                <th>PZip</th>
+                                                <th>Prefix</th>
+                                                <th>Suffix</th>
+                                                <th>Login Computation</th> */}
